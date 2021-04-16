@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Battsetseg20&layout=compact&theme=default_repocard&langs_count=10)](https://github.com/Battsetseg20/github-readme-stats)
 
+
+![](https://komarev.com/ghpvc/?username=Battsetseg20&color=blue&label=Visitors)
+
+
